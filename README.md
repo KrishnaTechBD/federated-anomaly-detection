@@ -57,5 +57,5 @@ federated-anomaly-detection/
 - Client label distribution
 - Differential privacy tradeoff
 
-## Professor-Facing One-Liner
+## One-Liner
 This repository demonstrates reproducible research engineering, clearly stated novelty, benchmark-aware evaluation, and PhD-ready technical communication.
